@@ -20,7 +20,7 @@ Run `npm install` to install all dependencies. To use the application locally, r
 
 ## Preview:
 
-![Application Preview]()
+![Application Preview](demo.gif)
 
 ## Deployed Link:
 
@@ -43,7 +43,7 @@ Run `npm install` to install all dependencies. To use the application locally, r
 Japkirat Singh
 
 - [GitHub](https://github.com/JAPKIRAT96)
-- [LinkedIn](https://www.linkedin.com/in/japkirat-singh-7831b81b1/
+- [LinkedIn](https://www.linkedin.com/in/japkirat-singh-7831b81b1/)
 
 ## License
 
