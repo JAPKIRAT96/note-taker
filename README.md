@@ -24,7 +24,7 @@ Run `npm install` to install all dependencies. To use the application locally, r
 
 ## Deployed Link:
 
-[Note Taker App]()
+[Note Taker App](https://notetaker97.herokuapp.com)
 
 ## Learning Points:
 
